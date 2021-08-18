@@ -3,7 +3,7 @@
 - 📫 Reach me @mp.inviable@gmail.com
 - Some of the blogs that i have created on Laravel and PHP
 
-<a target="_blank" href="https://laravelfacts.blogspot.com/2021/08/integration-of-queue-in-laravel.html">Integration of Queue in Laravel</a>
+<a target="_new" href="https://laravelfacts.blogspot.com/2021/08/integration-of-queue-in-laravel.html">Integration of Queue in Laravel</a>
 <br>
 <a target="_blank" href="https://laravelfacts.blogspot.com/2021/08/supervisor-integration-in-laravel.html">Integration of Queue in Laravel</a>
 <br>
