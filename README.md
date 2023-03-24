@@ -1,7 +1,18 @@
 - 👋 Hi, I’m @manoj11patel
-- 🌱 I’m currently learning Vue Js and Laravel New Features 
+- 🌱 I’m currently working as Project Manager and the Lead Laravel Developer 
 - 📫 Reach me @mp.inviable@gmail.com
+- 
 - Some of the blogs that i have created on Laravel and PHP
+
+- Laravel 10 New Features | Laravel 10 Pennant | Laravel 10 Process Feature | str password helper
+- https://www.youtube.com/watch?v=udX5b_swEVA
+
+- About ChatGPT | Why we use it | AI Based Chat
+- https://www.youtube.com/watch?v=4e7QwmRWUUc 
+
+- CI/CD Laravel with GitLab
+- https://www.youtube.com/watch?v=DsfDj5oBXcQ
+
 
 <a  target="_blank" href="https://laravelfacts.blogspot.com/2021/08/integration-of-queue-in-laravel.html">Integration of Queue in Laravel</a>
 <br>
